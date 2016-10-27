@@ -1,0 +1,2 @@
+snipmates函数补全功能快捷键
+Ctrl+x+o
