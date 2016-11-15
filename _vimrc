@@ -28,7 +28,9 @@ set et
 "按一次backspace就删除4个空格
 set smarttab
 "不生成备份文件，如~index.html
+set noundofile
 set nobackup
+set noswapfile
 "tab宽度为4个字符
 set ts=4
 set expandtab
