@@ -8,6 +8,8 @@ set fileencodings=utf-8,chinese,latin-1
 "解决菜单乱码
 source $VIMRUNTIME/delmenu.vim
 source $VIMRUNTIME/menu.vim
+"gvim字体设置,字体名字有空格的用“\”将空格转义，字号与字休用“:”连接
+set guifont=Fira\ Code:h14
 "解决consle输出乱码
 language messages zh_CN.utf-8
 "显示行号
